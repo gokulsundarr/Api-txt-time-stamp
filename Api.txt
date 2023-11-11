@@ -1,0 +1,8 @@
+Render url:https://api-txt.onrender.com
+
+End points:
+https://api-txt.onrender.com/createFile
+https://api-txt.onrender.com/displayFile
+
+github url:https://github.com/gokulsundarr/api-txt.git
+
